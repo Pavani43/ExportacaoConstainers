@@ -1,0 +1,12 @@
+C:\Users\mayco\Documents\Multivix\bessa\ExportacaoContainers\ExportacaoContainers\bin\Debug\ExportacaoContainers.exe.config
+C:\Users\mayco\Documents\Multivix\bessa\ExportacaoContainers\ExportacaoContainers\bin\Debug\ExportacaoContainers.exe
+C:\Users\mayco\Documents\Multivix\bessa\ExportacaoContainers\ExportacaoContainers\bin\Debug\ExportacaoContainers.pdb
+C:\Users\mayco\Documents\Multivix\bessa\ExportacaoContainers\ExportacaoContainers\obj\Debug\ExportacaoContainers.Properties.Resources.resources
+C:\Users\mayco\Documents\Multivix\bessa\ExportacaoContainers\ExportacaoContainers\obj\Debug\ExportacaoContainers.csproj.GenerateResource.Cache
+C:\Users\mayco\Documents\Multivix\bessa\ExportacaoContainers\ExportacaoContainers\obj\Debug\ExportacaoContainers.csproj.CoreCompileInputs.cache
+C:\Users\mayco\Documents\Multivix\bessa\ExportacaoContainers\ExportacaoContainers\obj\Debug\ExportacaoContainers.exe
+C:\Users\mayco\Documents\Multivix\bessa\ExportacaoContainers\ExportacaoContainers\obj\Debug\ExportacaoContainers.pdb
+C:\Users\mayco\Documents\Multivix\bessa\ExportacaoContainers\ExportacaoContainers\bin\Debug\Data\Database1.mdf
+C:\Users\mayco\Documents\Multivix\bessa\ExportacaoContainers\ExportacaoContainers\bin\Debug\Data\Database1_log.ldf
+C:\Users\mayco\Documents\Multivix\bessa\ExportacaoContainers\ExportacaoContainers\obj\Debug\ExportacaoContainers.csprojResolveAssemblyReference.cache
+C:\Users\mayco\Documents\Multivix\bessa\ExportacaoContainers\ExportacaoContainers\obj\Debug\ExportacaoContainers.Forms.Form1.resources
